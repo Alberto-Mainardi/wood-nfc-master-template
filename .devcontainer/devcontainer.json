@@ -1,0 +1,14 @@
+{
+    "name": "NFC Wood Template",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ritwickdey.LiveServer",
+                "bradlc.vscode-tailwindcss",
+                "formulahendry.auto-rename-tag",
+                "ecmel.vscode-html-css"
+            ]
+        }
+    }
+}
